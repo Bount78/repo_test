@@ -1,1 +1,4 @@
-print("Bonjour je suis Bounty")
+
+def Afficher():
+    print("Bonjour je suis Bounty")
+
